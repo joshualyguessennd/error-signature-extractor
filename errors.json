@@ -1,0 +1,2932 @@
+[
+    {
+        "name": "InsufficientBalance",
+        "signature": "InsufficientBalance()",
+        "selector": "0xf4d678b8"
+    },
+    {
+        "name": "CustomError",
+        "signature": "CustomError()",
+        "selector": "0x09caebf3"
+    },
+    {
+        "name": "CustomError",
+        "signature": "CustomError()",
+        "selector": "0x09caebf3"
+    },
+    {
+        "name": "PRBMath_MulDivSigned_InputTooSmall",
+        "signature": "PRBMath_MulDivSigned_InputTooSmall()",
+        "selector": "0x96aa5572"
+    },
+    {
+        "name": "PRBMath_SD59x18_Abs_MinSD59x18",
+        "signature": "PRBMath_SD59x18_Abs_MinSD59x18()",
+        "selector": "0xec2b9e67"
+    },
+    {
+        "name": "PRBMath_SD59x18_Div_InputTooSmall",
+        "signature": "PRBMath_SD59x18_Div_InputTooSmall()",
+        "selector": "0x9fe2b450"
+    },
+    {
+        "name": "PRBMath_SD59x18_Mul_InputTooSmall",
+        "signature": "PRBMath_SD59x18_Mul_InputTooSmall()",
+        "selector": "0xa6070c25"
+    },
+    {
+        "name": "NotCrossChainCall",
+        "signature": "NotCrossChainCall()",
+        "selector": "0x4a74df92"
+    },
+    {
+        "name": "NotCrossChainCall",
+        "signature": "NotCrossChainCall()",
+        "selector": "0x4a74df92"
+    },
+    {
+        "name": "InvalidShortString",
+        "signature": "InvalidShortString()",
+        "selector": "0xb3512b0c"
+    },
+    {
+        "name": "Empty",
+        "signature": "Empty()",
+        "selector": "0x3db2a12a"
+    },
+    {
+        "name": "OutOfBounds",
+        "signature": "OutOfBounds()",
+        "selector": "0xb4120f14"
+    },
+    {
+        "name": "PermissionNotSet",
+        "signature": "PermissionNotSet()",
+        "selector": "0xf805512f"
+    },
+    {
+        "name": "InvalidSubscription",
+        "signature": "InvalidSubscription()",
+        "selector": "0x1f6a65b6"
+    },
+    {
+        "name": "InsufficientBalance",
+        "signature": "InsufficientBalance()",
+        "selector": "0xf4d678b8"
+    },
+    {
+        "name": "TooManyConsumers",
+        "signature": "TooManyConsumers()",
+        "selector": "0x05a48e0f"
+    },
+    {
+        "name": "InvalidConsumer",
+        "signature": "InvalidConsumer()",
+        "selector": "0x71e83137"
+    },
+    {
+        "name": "InvalidRandomWords",
+        "signature": "InvalidRandomWords()",
+        "selector": "0x3f3df5b6"
+    },
+    {
+        "name": "AlwaysRevert",
+        "signature": "AlwaysRevert()",
+        "selector": "0x8bba4aff"
+    },
+    {
+        "name": "IndexOutOfRange",
+        "signature": "IndexOutOfRange()",
+        "selector": "0x1390f2a1"
+    },
+    {
+        "name": "MalformedData",
+        "signature": "MalformedData()",
+        "selector": "0x8e5714bc"
+    },
+    {
+        "name": "AccessForbidden",
+        "signature": "AccessForbidden()",
+        "selector": "0xef67f5d8"
+    },
+    {
+        "name": "ZeroAddress",
+        "signature": "ZeroAddress()",
+        "selector": "0xd92e233d"
+    },
+    {
+        "name": "FeedIdEmpty",
+        "signature": "FeedIdEmpty()",
+        "selector": "0xbd9f4c2b"
+    },
+    {
+        "name": "DigestEmpty",
+        "signature": "DigestEmpty()",
+        "selector": "0xe3322627"
+    },
+    {
+        "name": "FaultToleranceMustBePositive",
+        "signature": "FaultToleranceMustBePositive()",
+        "selector": "0x0743bae6"
+    },
+    {
+        "name": "NonUniqueSignatures",
+        "signature": "NonUniqueSignatures()",
+        "selector": "0xf67bc7c4"
+    },
+    {
+        "name": "BadVerification",
+        "signature": "BadVerification()",
+        "selector": "0x4df18f07"
+    },
+    {
+        "name": "AccessForbidden",
+        "signature": "AccessForbidden()",
+        "selector": "0xef67f5d8"
+    },
+    {
+        "name": "ZeroAddress",
+        "signature": "ZeroAddress()",
+        "selector": "0xd92e233d"
+    },
+    {
+        "name": "VerifierInvalid",
+        "signature": "VerifierInvalid()",
+        "selector": "0x75b0527a"
+    },
+    {
+        "name": "BadVerification",
+        "signature": "BadVerification()",
+        "selector": "0x4df18f07"
+    },
+    {
+        "name": "InvalidSurcharge",
+        "signature": "InvalidSurcharge()",
+        "selector": "0x05e8ac29"
+    },
+    {
+        "name": "InvalidToken",
+        "signature": "InvalidToken()",
+        "selector": "0xc1ab6dc1"
+    },
+    {
+        "name": "InvalidDiscount",
+        "signature": "InvalidDiscount()",
+        "selector": "0x997ea360"
+    },
+    {
+        "name": "InvalidAddress",
+        "signature": "InvalidAddress()",
+        "selector": "0xe6c4247b"
+    },
+    {
+        "name": "InvalidDeposit",
+        "signature": "InvalidDeposit()",
+        "selector": "0xb2e532de"
+    },
+    {
+        "name": "ExpiredReport",
+        "signature": "ExpiredReport()",
+        "selector": "0xb6c405f5"
+    },
+    {
+        "name": "InvalidQuote",
+        "signature": "InvalidQuote()",
+        "selector": "0xf8618030"
+    },
+    {
+        "name": "Unauthorized",
+        "signature": "Unauthorized()",
+        "selector": "0x82b42900"
+    },
+    {
+        "name": "ZeroDeficit",
+        "signature": "ZeroDeficit()",
+        "selector": "0x03aad312"
+    },
+    {
+        "name": "InvalidWeights",
+        "signature": "InvalidWeights()",
+        "selector": "0x84677ce8"
+    },
+    {
+        "name": "InvalidAddress",
+        "signature": "InvalidAddress()",
+        "selector": "0xe6c4247b"
+    },
+    {
+        "name": "InvalidPoolId",
+        "signature": "InvalidPoolId()",
+        "selector": "0x0afa7ee8"
+    },
+    {
+        "name": "Unauthorized",
+        "signature": "Unauthorized()",
+        "selector": "0x82b42900"
+    },
+    {
+        "name": "TooManyConsumers",
+        "signature": "TooManyConsumers()",
+        "selector": "0x05a48e0f"
+    },
+    {
+        "name": "InsufficientBalance",
+        "signature": "InsufficientBalance()",
+        "selector": "0xf4d678b8"
+    },
+    {
+        "name": "InvalidSubscription",
+        "signature": "InvalidSubscription()",
+        "selector": "0x1f6a65b6"
+    },
+    {
+        "name": "OnlyCallableFromLink",
+        "signature": "OnlyCallableFromLink()",
+        "selector": "0x44b0e3c3"
+    },
+    {
+        "name": "InvalidCalldata",
+        "signature": "InvalidCalldata()",
+        "selector": "0x8129bbcd"
+    },
+    {
+        "name": "PendingRequestExists",
+        "signature": "PendingRequestExists()",
+        "selector": "0xb42f66e8"
+    },
+    {
+        "name": "NoCorrespondingRequest",
+        "signature": "NoCorrespondingRequest()",
+        "selector": "0x3688124a"
+    },
+    {
+        "name": "IncorrectCommitment",
+        "signature": "IncorrectCommitment()",
+        "selector": "0xd529142c"
+    },
+    {
+        "name": "PaymentTooLarge",
+        "signature": "PaymentTooLarge()",
+        "selector": "0xe80fa381"
+    },
+    {
+        "name": "Reentrant",
+        "signature": "Reentrant()",
+        "selector": "0xed3ba6a6"
+    },
+    {
+        "name": "EmptySendersList",
+        "signature": "EmptySendersList()",
+        "selector": "0x75158c3b"
+    },
+    {
+        "name": "UnauthorizedSender",
+        "signature": "UnauthorizedSender()",
+        "selector": "0x08094908"
+    },
+    {
+        "name": "NotAllowedToSetSenders",
+        "signature": "NotAllowedToSetSenders()",
+        "selector": "0xad77f061"
+    },
+    {
+        "name": "OnlyCallableFromLink",
+        "signature": "OnlyCallableFromLink()",
+        "selector": "0x44b0e3c3"
+    },
+    {
+        "name": "PaymentTooLarge",
+        "signature": "PaymentTooLarge()",
+        "selector": "0xe80fa381"
+    },
+    {
+        "name": "EmptySource",
+        "signature": "EmptySource()",
+        "selector": "0x22ce3edd"
+    },
+    {
+        "name": "EmptyUrl",
+        "signature": "EmptyUrl()",
+        "selector": "0x38b06993"
+    },
+    {
+        "name": "EmptySecrets",
+        "signature": "EmptySecrets()",
+        "selector": "0xe889636f"
+    },
+    {
+        "name": "EmptyArgs",
+        "signature": "EmptyArgs()",
+        "selector": "0xfe936cb7"
+    },
+    {
+        "name": "ReportInvalid",
+        "signature": "ReportInvalid()",
+        "selector": "0x0be36328"
+    },
+    {
+        "name": "EmptyRequestData",
+        "signature": "EmptyRequestData()",
+        "selector": "0x00c1cfc0"
+    },
+    {
+        "name": "InconsistentReportData",
+        "signature": "InconsistentReportData()",
+        "selector": "0xe915fda5"
+    },
+    {
+        "name": "EmptyPublicKey",
+        "signature": "EmptyPublicKey()",
+        "selector": "0x4f42be3d"
+    },
+    {
+        "name": "EmptyBillingRegistry",
+        "signature": "EmptyBillingRegistry()",
+        "selector": "0x9c5fe324"
+    },
+    {
+        "name": "InvalidRequestID",
+        "signature": "InvalidRequestID()",
+        "selector": "0x803ed863"
+    },
+    {
+        "name": "UnauthorizedPublicKeyChange",
+        "signature": "UnauthorizedPublicKeyChange()",
+        "selector": "0xed6dd19b"
+    },
+    {
+        "name": "EmptySendersList",
+        "signature": "EmptySendersList()",
+        "selector": "0x75158c3b"
+    },
+    {
+        "name": "UnauthorizedSender",
+        "signature": "UnauthorizedSender()",
+        "selector": "0x08094908"
+    },
+    {
+        "name": "NotAllowedToSetSenders",
+        "signature": "NotAllowedToSetSenders()",
+        "selector": "0xad77f061"
+    },
+    {
+        "name": "AlreadySet",
+        "signature": "AlreadySet()",
+        "selector": "0xa741a045"
+    },
+    {
+        "name": "TooManyConsumers",
+        "signature": "TooManyConsumers()",
+        "selector": "0x05a48e0f"
+    },
+    {
+        "name": "InsufficientBalance",
+        "signature": "InsufficientBalance()",
+        "selector": "0xf4d678b8"
+    },
+    {
+        "name": "InvalidSubscription",
+        "signature": "InvalidSubscription()",
+        "selector": "0x1f6a65b6"
+    },
+    {
+        "name": "OnlyCallableFromLink",
+        "signature": "OnlyCallableFromLink()",
+        "selector": "0x44b0e3c3"
+    },
+    {
+        "name": "InvalidCalldata",
+        "signature": "InvalidCalldata()",
+        "selector": "0x8129bbcd"
+    },
+    {
+        "name": "PendingRequestExists",
+        "signature": "PendingRequestExists()",
+        "selector": "0xb42f66e8"
+    },
+    {
+        "name": "IncorrectRequestID",
+        "signature": "IncorrectRequestID()",
+        "selector": "0xda7aa3e1"
+    },
+    {
+        "name": "PaymentTooLarge",
+        "signature": "PaymentTooLarge()",
+        "selector": "0xe80fa381"
+    },
+    {
+        "name": "Reentrant",
+        "signature": "Reentrant()",
+        "selector": "0xed3ba6a6"
+    },
+    {
+        "name": "OwnerMustBeSet",
+        "signature": "OwnerMustBeSet()",
+        "selector": "0xb6b515fa"
+    },
+    {
+        "name": "NotProposedOwner",
+        "signature": "NotProposedOwner()",
+        "selector": "0x0f22ca5f"
+    },
+    {
+        "name": "CannotSelfTransfer",
+        "signature": "CannotSelfTransfer()",
+        "selector": "0x282010c3"
+    },
+    {
+        "name": "OnlyCallableByOwner",
+        "signature": "OnlyCallableByOwner()",
+        "selector": "0x2b5c74de"
+    },
+    {
+        "name": "EmptySendersList",
+        "signature": "EmptySendersList()",
+        "selector": "0x75158c3b"
+    },
+    {
+        "name": "UnauthorizedSender",
+        "signature": "UnauthorizedSender()",
+        "selector": "0x08094908"
+    },
+    {
+        "name": "NotAllowedToSetSenders",
+        "signature": "NotAllowedToSetSenders()",
+        "selector": "0xad77f061"
+    },
+    {
+        "name": "EmptyRequestData",
+        "signature": "EmptyRequestData()",
+        "selector": "0x00c1cfc0"
+    },
+    {
+        "name": "InconsistentReportData",
+        "signature": "InconsistentReportData()",
+        "selector": "0xe915fda5"
+    },
+    {
+        "name": "EmptyPublicKey",
+        "signature": "EmptyPublicKey()",
+        "selector": "0x4f42be3d"
+    },
+    {
+        "name": "EmptyBillingRegistry",
+        "signature": "EmptyBillingRegistry()",
+        "selector": "0x9c5fe324"
+    },
+    {
+        "name": "InvalidRequestID",
+        "signature": "InvalidRequestID()",
+        "selector": "0x803ed863"
+    },
+    {
+        "name": "UnauthorizedPublicKeyChange",
+        "signature": "UnauthorizedPublicKeyChange()",
+        "selector": "0xed6dd19b"
+    },
+    {
+        "name": "TooManyConsumers",
+        "signature": "TooManyConsumers()",
+        "selector": "0x05a48e0f"
+    },
+    {
+        "name": "InsufficientBalance",
+        "signature": "InsufficientBalance()",
+        "selector": "0xf4d678b8"
+    },
+    {
+        "name": "InvalidSubscription",
+        "signature": "InvalidSubscription()",
+        "selector": "0x1f6a65b6"
+    },
+    {
+        "name": "OnlyCallableFromLink",
+        "signature": "OnlyCallableFromLink()",
+        "selector": "0x44b0e3c3"
+    },
+    {
+        "name": "InvalidCalldata",
+        "signature": "InvalidCalldata()",
+        "selector": "0x8129bbcd"
+    },
+    {
+        "name": "PendingRequestExists",
+        "signature": "PendingRequestExists()",
+        "selector": "0xb42f66e8"
+    },
+    {
+        "name": "IncorrectRequestID",
+        "signature": "IncorrectRequestID()",
+        "selector": "0xda7aa3e1"
+    },
+    {
+        "name": "PaymentTooLarge",
+        "signature": "PaymentTooLarge()",
+        "selector": "0xe80fa381"
+    },
+    {
+        "name": "Reentrant",
+        "signature": "Reentrant()",
+        "selector": "0xed3ba6a6"
+    },
+    {
+        "name": "RouterMustBeSet",
+        "signature": "RouterMustBeSet()",
+        "selector": "0x4a61d10a"
+    },
+    {
+        "name": "OnlyCallableByRouter",
+        "signature": "OnlyCallableByRouter()",
+        "selector": "0xc41a5b09"
+    },
+    {
+        "name": "OnlyCallableByRouterOwner",
+        "signature": "OnlyCallableByRouterOwner()",
+        "selector": "0xa0f0a446"
+    },
+    {
+        "name": "InvalidConsumer",
+        "signature": "InvalidConsumer()",
+        "selector": "0x71e83137"
+    },
+    {
+        "name": "CannotRemoveWithPendingRequests",
+        "signature": "CannotRemoveWithPendingRequests()",
+        "selector": "0x06eb10c8"
+    },
+    {
+        "name": "InvalidSubscription",
+        "signature": "InvalidSubscription()",
+        "selector": "0x1f6a65b6"
+    },
+    {
+        "name": "OnlyCallableFromLink",
+        "signature": "OnlyCallableFromLink()",
+        "selector": "0x44b0e3c3"
+    },
+    {
+        "name": "InvalidCalldata",
+        "signature": "InvalidCalldata()",
+        "selector": "0x8129bbcd"
+    },
+    {
+        "name": "MustBeSubscriptionOwner",
+        "signature": "MustBeSubscriptionOwner()",
+        "selector": "0x5a68151d"
+    },
+    {
+        "name": "TimeoutNotExceeded",
+        "signature": "TimeoutNotExceeded()",
+        "selector": "0xa2376fe8"
+    },
+    {
+        "name": "EmptyRequestData",
+        "signature": "EmptyRequestData()",
+        "selector": "0x00c1cfc0"
+    },
+    {
+        "name": "OnlyCallableFromCoordinator",
+        "signature": "OnlyCallableFromCoordinator()",
+        "selector": "0x8bec23e7"
+    },
+    {
+        "name": "InvalidProposal",
+        "signature": "InvalidProposal()",
+        "selector": "0xee032808"
+    },
+    {
+        "name": "OnlyRouterCanFulfill",
+        "signature": "OnlyRouterCanFulfill()",
+        "selector": "0xc6829f83"
+    },
+    {
+        "name": "InconsistentReportData",
+        "signature": "InconsistentReportData()",
+        "selector": "0xe915fda5"
+    },
+    {
+        "name": "EmptyPublicKey",
+        "signature": "EmptyPublicKey()",
+        "selector": "0x4f42be3d"
+    },
+    {
+        "name": "UnauthorizedPublicKeyChange",
+        "signature": "UnauthorizedPublicKeyChange()",
+        "selector": "0xed6dd19b"
+    },
+    {
+        "name": "UnsupportedRequestDataVersion",
+        "signature": "UnsupportedRequestDataVersion()",
+        "selector": "0xdada7587"
+    },
+    {
+        "name": "InsufficientBalance",
+        "signature": "InsufficientBalance()",
+        "selector": "0xf4d678b8"
+    },
+    {
+        "name": "InvalidSubscription",
+        "signature": "InvalidSubscription()",
+        "selector": "0x1f6a65b6"
+    },
+    {
+        "name": "UnauthorizedSender",
+        "signature": "UnauthorizedSender()",
+        "selector": "0x08094908"
+    },
+    {
+        "name": "PaymentTooLarge",
+        "signature": "PaymentTooLarge()",
+        "selector": "0xe80fa381"
+    },
+    {
+        "name": "NoTransmittersSet",
+        "signature": "NoTransmittersSet()",
+        "selector": "0x30274b3a"
+    },
+    {
+        "name": "InvalidCalldata",
+        "signature": "InvalidCalldata()",
+        "selector": "0x8129bbcd"
+    },
+    {
+        "name": "InvalidSignature",
+        "signature": "InvalidSignature()",
+        "selector": "0x8baa579f"
+    },
+    {
+        "name": "InvalidUsage",
+        "signature": "InvalidUsage()",
+        "selector": "0x381cfcbd"
+    },
+    {
+        "name": "RecipientIsBlocked",
+        "signature": "RecipientIsBlocked()",
+        "selector": "0x62b7a34d"
+    },
+    {
+        "name": "ReportInvalid",
+        "signature": "ReportInvalid()",
+        "selector": "0x0be36328"
+    },
+    {
+        "name": "EmptySource",
+        "signature": "EmptySource()",
+        "selector": "0x22ce3edd"
+    },
+    {
+        "name": "EmptySecrets",
+        "signature": "EmptySecrets()",
+        "selector": "0xe889636f"
+    },
+    {
+        "name": "EmptyArgs",
+        "signature": "EmptyArgs()",
+        "selector": "0xfe936cb7"
+    },
+    {
+        "name": "NoInlineSecrets",
+        "signature": "NoInlineSecrets()",
+        "selector": "0xa80d31f7"
+    },
+    {
+        "name": "EmptySource",
+        "signature": "EmptySource()",
+        "selector": "0x22ce3edd"
+    },
+    {
+        "name": "EmptyUrl",
+        "signature": "EmptyUrl()",
+        "selector": "0x38b06993"
+    },
+    {
+        "name": "EmptySecrets",
+        "signature": "EmptySecrets()",
+        "selector": "0xe889636f"
+    },
+    {
+        "name": "EmptyArgs",
+        "signature": "EmptyArgs()",
+        "selector": "0xfe936cb7"
+    },
+    {
+        "name": "NoInlineSecrets",
+        "signature": "NoInlineSecrets()",
+        "selector": "0xa80d31f7"
+    },
+    {
+        "name": "EmptyRequestData",
+        "signature": "EmptyRequestData()",
+        "selector": "0x00c1cfc0"
+    },
+    {
+        "name": "InconsistentReportData",
+        "signature": "InconsistentReportData()",
+        "selector": "0xe915fda5"
+    },
+    {
+        "name": "EmptyPublicKey",
+        "signature": "EmptyPublicKey()",
+        "selector": "0x4f42be3d"
+    },
+    {
+        "name": "EmptyBillingRegistry",
+        "signature": "EmptyBillingRegistry()",
+        "selector": "0x9c5fe324"
+    },
+    {
+        "name": "UnauthorizedPublicKeyChange",
+        "signature": "UnauthorizedPublicKeyChange()",
+        "selector": "0xed6dd19b"
+    },
+    {
+        "name": "SenderIsNotRegistry",
+        "signature": "SenderIsNotRegistry()",
+        "selector": "0xa0c5ec63"
+    },
+    {
+        "name": "RequestIsAlreadyPending",
+        "signature": "RequestIsAlreadyPending()",
+        "selector": "0x8b457ad2"
+    },
+    {
+        "name": "RequestIsNotPending",
+        "signature": "RequestIsNotPending()",
+        "selector": "0xe0584ce4"
+    },
+    {
+        "name": "TooManyConsumers",
+        "signature": "TooManyConsumers()",
+        "selector": "0x05a48e0f"
+    },
+    {
+        "name": "InsufficientBalance",
+        "signature": "InsufficientBalance()",
+        "selector": "0xf4d678b8"
+    },
+    {
+        "name": "InvalidSubscription",
+        "signature": "InvalidSubscription()",
+        "selector": "0x1f6a65b6"
+    },
+    {
+        "name": "OnlyCallableFromLink",
+        "signature": "OnlyCallableFromLink()",
+        "selector": "0x44b0e3c3"
+    },
+    {
+        "name": "InvalidCalldata",
+        "signature": "InvalidCalldata()",
+        "selector": "0x8129bbcd"
+    },
+    {
+        "name": "PendingRequestExists",
+        "signature": "PendingRequestExists()",
+        "selector": "0xb42f66e8"
+    },
+    {
+        "name": "PaymentTooLarge",
+        "signature": "PaymentTooLarge()",
+        "selector": "0xe80fa381"
+    },
+    {
+        "name": "Reentrant",
+        "signature": "Reentrant()",
+        "selector": "0xed3ba6a6"
+    },
+    {
+        "name": "EmptySendersList",
+        "signature": "EmptySendersList()",
+        "selector": "0x75158c3b"
+    },
+    {
+        "name": "UnauthorizedSender",
+        "signature": "UnauthorizedSender()",
+        "selector": "0x08094908"
+    },
+    {
+        "name": "NotAllowedToSetSenders",
+        "signature": "NotAllowedToSetSenders()",
+        "selector": "0xad77f061"
+    },
+    {
+        "name": "AlreadySet",
+        "signature": "AlreadySet()",
+        "selector": "0xa741a045"
+    },
+    {
+        "name": "OwnerMustBeSet",
+        "signature": "OwnerMustBeSet()",
+        "selector": "0xb6b515fa"
+    },
+    {
+        "name": "NotProposedOwner",
+        "signature": "NotProposedOwner()",
+        "selector": "0x0f22ca5f"
+    },
+    {
+        "name": "CannotSelfTransfer",
+        "signature": "CannotSelfTransfer()",
+        "selector": "0x282010c3"
+    },
+    {
+        "name": "OnlyCallableByOwner",
+        "signature": "OnlyCallableByOwner()",
+        "selector": "0x2b5c74de"
+    },
+    {
+        "name": "EmptySendersList",
+        "signature": "EmptySendersList()",
+        "selector": "0x75158c3b"
+    },
+    {
+        "name": "UnauthorizedSender",
+        "signature": "UnauthorizedSender()",
+        "selector": "0x08094908"
+    },
+    {
+        "name": "NotAllowedToSetSenders",
+        "signature": "NotAllowedToSetSenders()",
+        "selector": "0xad77f061"
+    },
+    {
+        "name": "EmptySendersList",
+        "signature": "EmptySendersList()",
+        "selector": "0x75158c3b"
+    },
+    {
+        "name": "UnauthorizedSender",
+        "signature": "UnauthorizedSender()",
+        "selector": "0x08094908"
+    },
+    {
+        "name": "NotAllowedToSetSenders",
+        "signature": "NotAllowedToSetSenders()",
+        "selector": "0xad77f061"
+    },
+    {
+        "name": "AlreadySet",
+        "signature": "AlreadySet()",
+        "selector": "0xa741a045"
+    },
+    {
+        "name": "ReportInvalid",
+        "signature": "ReportInvalid()",
+        "selector": "0x0be36328"
+    },
+    {
+        "name": "ReportInvalid",
+        "signature": "ReportInvalid()",
+        "selector": "0x0be36328"
+    },
+    {
+        "name": "InvalidSender",
+        "signature": "InvalidSender()",
+        "selector": "0xddb5de5e"
+    },
+    {
+        "name": "NoDataPresent",
+        "signature": "NoDataPresent()",
+        "selector": "0xbb258700"
+    },
+    {
+        "name": "Uninitialized",
+        "signature": "Uninitialized()",
+        "selector": "0x1c72fad4"
+    },
+    {
+        "name": "AlreadyInitialized",
+        "signature": "AlreadyInitialized()",
+        "selector": "0x0dc149f0"
+    },
+    {
+        "name": "InvalidSender",
+        "signature": "InvalidSender()",
+        "selector": "0xddb5de5e"
+    },
+    {
+        "name": "NoDataPresent",
+        "signature": "NoDataPresent()",
+        "selector": "0xbb258700"
+    },
+    {
+        "name": "InvalidWatchList",
+        "signature": "InvalidWatchList()",
+        "selector": "0x3869bbe6"
+    },
+    {
+        "name": "OnlyKeeperRegistry",
+        "signature": "OnlyKeeperRegistry()",
+        "selector": "0xd3a68034"
+    },
+    {
+        "name": "ReportInvalid",
+        "signature": "ReportInvalid()",
+        "selector": "0x0be36328"
+    },
+    {
+        "name": "LinkAlreadySet",
+        "signature": "LinkAlreadySet()",
+        "selector": "0x2d118a6e"
+    },
+    {
+        "name": "NotInWhitelist",
+        "signature": "NotInWhitelist()",
+        "selector": "0x5b0aa2ba"
+    },
+    {
+        "name": "InvalidTrustedBlockhashes",
+        "signature": "InvalidTrustedBlockhashes()",
+        "selector": "0xbd750933"
+    },
+    {
+        "name": "InvalidRecentBlockhash",
+        "signature": "InvalidRecentBlockhash()",
+        "selector": "0xd2f69c95"
+    },
+    {
+        "name": "TooManyConsumers",
+        "signature": "TooManyConsumers()",
+        "selector": "0x05a48e0f"
+    },
+    {
+        "name": "InsufficientBalance",
+        "signature": "InsufficientBalance()",
+        "selector": "0xf4d678b8"
+    },
+    {
+        "name": "InvalidSubscription",
+        "signature": "InvalidSubscription()",
+        "selector": "0x1f6a65b6"
+    },
+    {
+        "name": "OnlyCallableFromLink",
+        "signature": "OnlyCallableFromLink()",
+        "selector": "0x44b0e3c3"
+    },
+    {
+        "name": "InvalidCalldata",
+        "signature": "InvalidCalldata()",
+        "selector": "0x8129bbcd"
+    },
+    {
+        "name": "PendingRequestExists",
+        "signature": "PendingRequestExists()",
+        "selector": "0xb42f66e8"
+    },
+    {
+        "name": "LinkAlreadySet",
+        "signature": "LinkAlreadySet()",
+        "selector": "0x2d118a6e"
+    },
+    {
+        "name": "FailedToSendEther",
+        "signature": "FailedToSendEther()",
+        "selector": "0xdcf35db0"
+    },
+    {
+        "name": "IndexOutOfRange",
+        "signature": "IndexOutOfRange()",
+        "selector": "0x1390f2a1"
+    },
+    {
+        "name": "Reentrant",
+        "signature": "Reentrant()",
+        "selector": "0xed3ba6a6"
+    },
+    {
+        "name": "ZeroAddress",
+        "signature": "ZeroAddress()",
+        "selector": "0xd92e233d"
+    },
+    {
+        "name": "NoCorrespondingRequest",
+        "signature": "NoCorrespondingRequest()",
+        "selector": "0x3688124a"
+    },
+    {
+        "name": "IncorrectCommitment",
+        "signature": "IncorrectCommitment()",
+        "selector": "0xd529142c"
+    },
+    {
+        "name": "PaymentTooLarge",
+        "signature": "PaymentTooLarge()",
+        "selector": "0xe80fa381"
+    },
+    {
+        "name": "InvalidExtraArgsTag",
+        "signature": "InvalidExtraArgsTag()",
+        "selector": "0x5247fdce"
+    },
+    {
+        "name": "LINKAlreadySet",
+        "signature": "LINKAlreadySet()",
+        "selector": "0x64f778ae"
+    },
+    {
+        "name": "InvalidSubscription",
+        "signature": "InvalidSubscription()",
+        "selector": "0x1f6a65b6"
+    },
+    {
+        "name": "OnlyCallableFromLink",
+        "signature": "OnlyCallableFromLink()",
+        "selector": "0x44b0e3c3"
+    },
+    {
+        "name": "InvalidCalldata",
+        "signature": "InvalidCalldata()",
+        "selector": "0x8129bbcd"
+    },
+    {
+        "name": "DeploymentFailed",
+        "signature": "DeploymentFailed()",
+        "selector": "0x30116425"
+    },
+    {
+        "name": "BadFormatOrOOG",
+        "signature": "BadFormatOrOOG()",
+        "selector": "0x20e9b5d2"
+    },
+    {
+        "name": "InvalidTranscoding",
+        "signature": "InvalidTranscoding()",
+        "selector": "0x90aaccc3"
+    },
+    {
+        "name": "NoKeeperNodes",
+        "signature": "NoKeeperNodes()",
+        "selector": "0x410a0c54"
+    },
+    {
+        "name": "InsufficientInterval",
+        "signature": "InsufficientInterval()",
+        "selector": "0x945a5107"
+    },
+    {
+        "name": "InvalidTranscoding",
+        "signature": "InvalidTranscoding()",
+        "selector": "0x90aaccc3"
+    },
+    {
+        "name": "InvalidAdminAddress",
+        "signature": "InvalidAdminAddress()",
+        "selector": "0x05bb467c"
+    },
+    {
+        "name": "RequestNotFound",
+        "signature": "RequestNotFound()",
+        "selector": "0x4b13b31e"
+    },
+    {
+        "name": "HashMismatch",
+        "signature": "HashMismatch()",
+        "selector": "0x3f4d6053"
+    },
+    {
+        "name": "OnlyAdminOrOwner",
+        "signature": "OnlyAdminOrOwner()",
+        "selector": "0x61685c2b"
+    },
+    {
+        "name": "InsufficientPayment",
+        "signature": "InsufficientPayment()",
+        "selector": "0xcd1c8867"
+    },
+    {
+        "name": "RegistrationRequestFailed",
+        "signature": "RegistrationRequestFailed()",
+        "selector": "0x649bf810"
+    },
+    {
+        "name": "OnlyLink",
+        "signature": "OnlyLink()",
+        "selector": "0x018d10be"
+    },
+    {
+        "name": "AmountMismatch",
+        "signature": "AmountMismatch()",
+        "selector": "0x55e97b0d"
+    },
+    {
+        "name": "SenderMismatch",
+        "signature": "SenderMismatch()",
+        "selector": "0xf8c5638e"
+    },
+    {
+        "name": "FunctionNotPermitted",
+        "signature": "FunctionNotPermitted()",
+        "selector": "0xe3d67921"
+    },
+    {
+        "name": "InvalidDataLength",
+        "signature": "InvalidDataLength()",
+        "selector": "0xdfe93090"
+    },
+    {
+        "name": "ArrayHasNoEntries",
+        "signature": "ArrayHasNoEntries()",
+        "selector": "0x2c2fc941"
+    },
+    {
+        "name": "CannotCancel",
+        "signature": "CannotCancel()",
+        "selector": "0xfbc03578"
+    },
+    {
+        "name": "CheckDataExceedsLimit",
+        "signature": "CheckDataExceedsLimit()",
+        "selector": "0xae7235df"
+    },
+    {
+        "name": "ConfigDigestMismatch",
+        "signature": "ConfigDigestMismatch()",
+        "selector": "0xdfdcf8e7"
+    },
+    {
+        "name": "DuplicateEntry",
+        "signature": "DuplicateEntry()",
+        "selector": "0x357d0cc4"
+    },
+    {
+        "name": "DuplicateSigners",
+        "signature": "DuplicateSigners()",
+        "selector": "0xc103be2e"
+    },
+    {
+        "name": "GasLimitCanOnlyIncrease",
+        "signature": "GasLimitCanOnlyIncrease()",
+        "selector": "0x39abc104"
+    },
+    {
+        "name": "GasLimitOutsideRange",
+        "signature": "GasLimitOutsideRange()",
+        "selector": "0x14c237fb"
+    },
+    {
+        "name": "IncorrectNumberOfFaultyOracles",
+        "signature": "IncorrectNumberOfFaultyOracles()",
+        "selector": "0xe77dba56"
+    },
+    {
+        "name": "IncorrectNumberOfSignatures",
+        "signature": "IncorrectNumberOfSignatures()",
+        "selector": "0x0244f71a"
+    },
+    {
+        "name": "IncorrectNumberOfSigners",
+        "signature": "IncorrectNumberOfSigners()",
+        "selector": "0x1d2d1c58"
+    },
+    {
+        "name": "IndexOutOfRange",
+        "signature": "IndexOutOfRange()",
+        "selector": "0x1390f2a1"
+    },
+    {
+        "name": "InsufficientFunds",
+        "signature": "InsufficientFunds()",
+        "selector": "0x356680b7"
+    },
+    {
+        "name": "InvalidDataLength",
+        "signature": "InvalidDataLength()",
+        "selector": "0xdfe93090"
+    },
+    {
+        "name": "InvalidTrigger",
+        "signature": "InvalidTrigger()",
+        "selector": "0xa768d7fd"
+    },
+    {
+        "name": "InvalidPayee",
+        "signature": "InvalidPayee()",
+        "selector": "0xb387a238"
+    },
+    {
+        "name": "InvalidRecipient",
+        "signature": "InvalidRecipient()",
+        "selector": "0x9c8d2cd2"
+    },
+    {
+        "name": "InvalidReport",
+        "signature": "InvalidReport()",
+        "selector": "0xb55ac754"
+    },
+    {
+        "name": "InvalidSigner",
+        "signature": "InvalidSigner()",
+        "selector": "0x815e1d64"
+    },
+    {
+        "name": "InvalidTransmitter",
+        "signature": "InvalidTransmitter()",
+        "selector": "0x58a70a0a"
+    },
+    {
+        "name": "InvalidTriggerType",
+        "signature": "InvalidTriggerType()",
+        "selector": "0xf2b2d412"
+    },
+    {
+        "name": "MaxCheckDataSizeCanOnlyIncrease",
+        "signature": "MaxCheckDataSizeCanOnlyIncrease()",
+        "selector": "0x1fa9bdcb"
+    },
+    {
+        "name": "MaxPerformDataSizeCanOnlyIncrease",
+        "signature": "MaxPerformDataSizeCanOnlyIncrease()",
+        "selector": "0xd1d5faa8"
+    },
+    {
+        "name": "MigrationNotPermitted",
+        "signature": "MigrationNotPermitted()",
+        "selector": "0x0ebeec3c"
+    },
+    {
+        "name": "NotAContract",
+        "signature": "NotAContract()",
+        "selector": "0x09ee12d5"
+    },
+    {
+        "name": "OnlyActiveSigners",
+        "signature": "OnlyActiveSigners()",
+        "selector": "0x0f4c0737"
+    },
+    {
+        "name": "OnlyActiveTransmitters",
+        "signature": "OnlyActiveTransmitters()",
+        "selector": "0x1099ed75"
+    },
+    {
+        "name": "OnlyCallableByAdmin",
+        "signature": "OnlyCallableByAdmin()",
+        "selector": "0xa47c1706"
+    },
+    {
+        "name": "OnlyCallableByLINKToken",
+        "signature": "OnlyCallableByLINKToken()",
+        "selector": "0xc8bad78d"
+    },
+    {
+        "name": "OnlyCallableByOwnerOrAdmin",
+        "signature": "OnlyCallableByOwnerOrAdmin()",
+        "selector": "0xfbdb8e56"
+    },
+    {
+        "name": "OnlyCallableByOwnerOrRegistrar",
+        "signature": "OnlyCallableByOwnerOrRegistrar()",
+        "selector": "0xd48b678b"
+    },
+    {
+        "name": "OnlyCallableByPayee",
+        "signature": "OnlyCallableByPayee()",
+        "selector": "0xcebf515b"
+    },
+    {
+        "name": "OnlyCallableByProposedAdmin",
+        "signature": "OnlyCallableByProposedAdmin()",
+        "selector": "0x6352a853"
+    },
+    {
+        "name": "OnlyCallableByProposedPayee",
+        "signature": "OnlyCallableByProposedPayee()",
+        "selector": "0x6752e7aa"
+    },
+    {
+        "name": "OnlyCallableByUpkeepPrivilegeManager",
+        "signature": "OnlyCallableByUpkeepPrivilegeManager()",
+        "selector": "0x77c35992"
+    },
+    {
+        "name": "OnlyPausedUpkeep",
+        "signature": "OnlyPausedUpkeep()",
+        "selector": "0x1b88a784"
+    },
+    {
+        "name": "OnlyUnpausedUpkeep",
+        "signature": "OnlyUnpausedUpkeep()",
+        "selector": "0x514b6c24"
+    },
+    {
+        "name": "ParameterLengthError",
+        "signature": "ParameterLengthError()",
+        "selector": "0xcf54c06a"
+    },
+    {
+        "name": "PaymentGreaterThanAllLINK",
+        "signature": "PaymentGreaterThanAllLINK()",
+        "selector": "0x2ad7547a"
+    },
+    {
+        "name": "ReentrantCall",
+        "signature": "ReentrantCall()",
+        "selector": "0x37ed32e8"
+    },
+    {
+        "name": "RegistryPaused",
+        "signature": "RegistryPaused()",
+        "selector": "0x24522f34"
+    },
+    {
+        "name": "RepeatedSigner",
+        "signature": "RepeatedSigner()",
+        "selector": "0x77cea0fa"
+    },
+    {
+        "name": "RepeatedTransmitter",
+        "signature": "RepeatedTransmitter()",
+        "selector": "0x6a7281ad"
+    },
+    {
+        "name": "TooManyOracles",
+        "signature": "TooManyOracles()",
+        "selector": "0x25d0209c"
+    },
+    {
+        "name": "TranscoderNotSet",
+        "signature": "TranscoderNotSet()",
+        "selector": "0xd12d7d8d"
+    },
+    {
+        "name": "UpkeepAlreadyExists",
+        "signature": "UpkeepAlreadyExists()",
+        "selector": "0x6e3b930b"
+    },
+    {
+        "name": "UpkeepCancelled",
+        "signature": "UpkeepCancelled()",
+        "selector": "0x9c0083a2"
+    },
+    {
+        "name": "UpkeepNotCanceled",
+        "signature": "UpkeepNotCanceled()",
+        "selector": "0xff84e5dd"
+    },
+    {
+        "name": "UpkeepNotNeeded",
+        "signature": "UpkeepNotNeeded()",
+        "selector": "0x865676e3"
+    },
+    {
+        "name": "ValueNotChanged",
+        "signature": "ValueNotChanged()",
+        "selector": "0x8c8728c7"
+    },
+    {
+        "name": "ArrayHasNoEntries",
+        "signature": "ArrayHasNoEntries()",
+        "selector": "0x2c2fc941"
+    },
+    {
+        "name": "CannotCancel",
+        "signature": "CannotCancel()",
+        "selector": "0xfbc03578"
+    },
+    {
+        "name": "CheckDataExceedsLimit",
+        "signature": "CheckDataExceedsLimit()",
+        "selector": "0xae7235df"
+    },
+    {
+        "name": "ConfigDigestMismatch",
+        "signature": "ConfigDigestMismatch()",
+        "selector": "0xdfdcf8e7"
+    },
+    {
+        "name": "DuplicateEntry",
+        "signature": "DuplicateEntry()",
+        "selector": "0x357d0cc4"
+    },
+    {
+        "name": "DuplicateSigners",
+        "signature": "DuplicateSigners()",
+        "selector": "0xc103be2e"
+    },
+    {
+        "name": "GasLimitCanOnlyIncrease",
+        "signature": "GasLimitCanOnlyIncrease()",
+        "selector": "0x39abc104"
+    },
+    {
+        "name": "GasLimitOutsideRange",
+        "signature": "GasLimitOutsideRange()",
+        "selector": "0x14c237fb"
+    },
+    {
+        "name": "IncorrectNumberOfFaultyOracles",
+        "signature": "IncorrectNumberOfFaultyOracles()",
+        "selector": "0xe77dba56"
+    },
+    {
+        "name": "IncorrectNumberOfSignatures",
+        "signature": "IncorrectNumberOfSignatures()",
+        "selector": "0x0244f71a"
+    },
+    {
+        "name": "IncorrectNumberOfSigners",
+        "signature": "IncorrectNumberOfSigners()",
+        "selector": "0x1d2d1c58"
+    },
+    {
+        "name": "IndexOutOfRange",
+        "signature": "IndexOutOfRange()",
+        "selector": "0x1390f2a1"
+    },
+    {
+        "name": "InsufficientFunds",
+        "signature": "InsufficientFunds()",
+        "selector": "0x356680b7"
+    },
+    {
+        "name": "InvalidDataLength",
+        "signature": "InvalidDataLength()",
+        "selector": "0xdfe93090"
+    },
+    {
+        "name": "InvalidPayee",
+        "signature": "InvalidPayee()",
+        "selector": "0xb387a238"
+    },
+    {
+        "name": "InvalidRecipient",
+        "signature": "InvalidRecipient()",
+        "selector": "0x9c8d2cd2"
+    },
+    {
+        "name": "InvalidReport",
+        "signature": "InvalidReport()",
+        "selector": "0xb55ac754"
+    },
+    {
+        "name": "InvalidSigner",
+        "signature": "InvalidSigner()",
+        "selector": "0x815e1d64"
+    },
+    {
+        "name": "InvalidTransmitter",
+        "signature": "InvalidTransmitter()",
+        "selector": "0x58a70a0a"
+    },
+    {
+        "name": "InvalidTrigger",
+        "signature": "InvalidTrigger()",
+        "selector": "0xa768d7fd"
+    },
+    {
+        "name": "InvalidTriggerType",
+        "signature": "InvalidTriggerType()",
+        "selector": "0xf2b2d412"
+    },
+    {
+        "name": "MaxCheckDataSizeCanOnlyIncrease",
+        "signature": "MaxCheckDataSizeCanOnlyIncrease()",
+        "selector": "0x1fa9bdcb"
+    },
+    {
+        "name": "MaxPerformDataSizeCanOnlyIncrease",
+        "signature": "MaxPerformDataSizeCanOnlyIncrease()",
+        "selector": "0xd1d5faa8"
+    },
+    {
+        "name": "MigrationNotPermitted",
+        "signature": "MigrationNotPermitted()",
+        "selector": "0x0ebeec3c"
+    },
+    {
+        "name": "NotAContract",
+        "signature": "NotAContract()",
+        "selector": "0x09ee12d5"
+    },
+    {
+        "name": "OnlyActiveSigners",
+        "signature": "OnlyActiveSigners()",
+        "selector": "0x0f4c0737"
+    },
+    {
+        "name": "OnlyActiveTransmitters",
+        "signature": "OnlyActiveTransmitters()",
+        "selector": "0x1099ed75"
+    },
+    {
+        "name": "OnlyCallableByAdmin",
+        "signature": "OnlyCallableByAdmin()",
+        "selector": "0xa47c1706"
+    },
+    {
+        "name": "OnlyCallableByLINKToken",
+        "signature": "OnlyCallableByLINKToken()",
+        "selector": "0xc8bad78d"
+    },
+    {
+        "name": "OnlyCallableByOwnerOrAdmin",
+        "signature": "OnlyCallableByOwnerOrAdmin()",
+        "selector": "0xfbdb8e56"
+    },
+    {
+        "name": "OnlyCallableByOwnerOrRegistrar",
+        "signature": "OnlyCallableByOwnerOrRegistrar()",
+        "selector": "0xd48b678b"
+    },
+    {
+        "name": "OnlyCallableByPayee",
+        "signature": "OnlyCallableByPayee()",
+        "selector": "0xcebf515b"
+    },
+    {
+        "name": "OnlyCallableByProposedAdmin",
+        "signature": "OnlyCallableByProposedAdmin()",
+        "selector": "0x6352a853"
+    },
+    {
+        "name": "OnlyCallableByProposedPayee",
+        "signature": "OnlyCallableByProposedPayee()",
+        "selector": "0x6752e7aa"
+    },
+    {
+        "name": "OnlyCallableByUpkeepPrivilegeManager",
+        "signature": "OnlyCallableByUpkeepPrivilegeManager()",
+        "selector": "0x77c35992"
+    },
+    {
+        "name": "OnlyPausedUpkeep",
+        "signature": "OnlyPausedUpkeep()",
+        "selector": "0x1b88a784"
+    },
+    {
+        "name": "OnlySimulatedBackend",
+        "signature": "OnlySimulatedBackend()",
+        "selector": "0xb60ac5db"
+    },
+    {
+        "name": "OnlyUnpausedUpkeep",
+        "signature": "OnlyUnpausedUpkeep()",
+        "selector": "0x514b6c24"
+    },
+    {
+        "name": "ParameterLengthError",
+        "signature": "ParameterLengthError()",
+        "selector": "0xcf54c06a"
+    },
+    {
+        "name": "PaymentGreaterThanAllLINK",
+        "signature": "PaymentGreaterThanAllLINK()",
+        "selector": "0x2ad7547a"
+    },
+    {
+        "name": "ReentrantCall",
+        "signature": "ReentrantCall()",
+        "selector": "0x37ed32e8"
+    },
+    {
+        "name": "RegistryPaused",
+        "signature": "RegistryPaused()",
+        "selector": "0x24522f34"
+    },
+    {
+        "name": "RepeatedSigner",
+        "signature": "RepeatedSigner()",
+        "selector": "0x77cea0fa"
+    },
+    {
+        "name": "RepeatedTransmitter",
+        "signature": "RepeatedTransmitter()",
+        "selector": "0x6a7281ad"
+    },
+    {
+        "name": "TooManyOracles",
+        "signature": "TooManyOracles()",
+        "selector": "0x25d0209c"
+    },
+    {
+        "name": "TranscoderNotSet",
+        "signature": "TranscoderNotSet()",
+        "selector": "0xd12d7d8d"
+    },
+    {
+        "name": "UpkeepAlreadyExists",
+        "signature": "UpkeepAlreadyExists()",
+        "selector": "0x6e3b930b"
+    },
+    {
+        "name": "UpkeepCancelled",
+        "signature": "UpkeepCancelled()",
+        "selector": "0x9c0083a2"
+    },
+    {
+        "name": "UpkeepNotCanceled",
+        "signature": "UpkeepNotCanceled()",
+        "selector": "0xff84e5dd"
+    },
+    {
+        "name": "UpkeepNotNeeded",
+        "signature": "UpkeepNotNeeded()",
+        "selector": "0x865676e3"
+    },
+    {
+        "name": "ValueNotChanged",
+        "signature": "ValueNotChanged()",
+        "selector": "0x8c8728c7"
+    },
+    {
+        "name": "InvalidWatchList",
+        "signature": "InvalidWatchList()",
+        "selector": "0x3869bbe6"
+    },
+    {
+        "name": "InvalidTranscoding",
+        "signature": "InvalidTranscoding()",
+        "selector": "0x90aaccc3"
+    },
+    {
+        "name": "OnlySimulatedBackend",
+        "signature": "OnlySimulatedBackend()",
+        "selector": "0xb60ac5db"
+    },
+    {
+        "name": "HeartbeatNotPermitted",
+        "signature": "HeartbeatNotPermitted()",
+        "selector": "0xa4e06367"
+    },
+    {
+        "name": "OnlySimulatedBackend",
+        "signature": "OnlySimulatedBackend()",
+        "selector": "0xb60ac5db"
+    },
+    {
+        "name": "HeartbeatNotPermitted",
+        "signature": "HeartbeatNotPermitted()",
+        "selector": "0xa4e06367"
+    },
+    {
+        "name": "InvalidAdminAddress",
+        "signature": "InvalidAdminAddress()",
+        "selector": "0x05bb467c"
+    },
+    {
+        "name": "RequestNotFound",
+        "signature": "RequestNotFound()",
+        "selector": "0x4b13b31e"
+    },
+    {
+        "name": "HashMismatch",
+        "signature": "HashMismatch()",
+        "selector": "0x3f4d6053"
+    },
+    {
+        "name": "OnlyAdminOrOwner",
+        "signature": "OnlyAdminOrOwner()",
+        "selector": "0x61685c2b"
+    },
+    {
+        "name": "InsufficientPayment",
+        "signature": "InsufficientPayment()",
+        "selector": "0xcd1c8867"
+    },
+    {
+        "name": "RegistrationRequestFailed",
+        "signature": "RegistrationRequestFailed()",
+        "selector": "0x649bf810"
+    },
+    {
+        "name": "OnlyLink",
+        "signature": "OnlyLink()",
+        "selector": "0x018d10be"
+    },
+    {
+        "name": "AmountMismatch",
+        "signature": "AmountMismatch()",
+        "selector": "0x55e97b0d"
+    },
+    {
+        "name": "SenderMismatch",
+        "signature": "SenderMismatch()",
+        "selector": "0xf8c5638e"
+    },
+    {
+        "name": "FunctionNotPermitted",
+        "signature": "FunctionNotPermitted()",
+        "selector": "0xe3d67921"
+    },
+    {
+        "name": "InvalidDataLength",
+        "signature": "InvalidDataLength()",
+        "selector": "0xdfe93090"
+    },
+    {
+        "name": "ArrayHasNoEntries",
+        "signature": "ArrayHasNoEntries()",
+        "selector": "0x2c2fc941"
+    },
+    {
+        "name": "CannotCancel",
+        "signature": "CannotCancel()",
+        "selector": "0xfbc03578"
+    },
+    {
+        "name": "DuplicateEntry",
+        "signature": "DuplicateEntry()",
+        "selector": "0x357d0cc4"
+    },
+    {
+        "name": "GasLimitCanOnlyIncrease",
+        "signature": "GasLimitCanOnlyIncrease()",
+        "selector": "0x39abc104"
+    },
+    {
+        "name": "GasLimitOutsideRange",
+        "signature": "GasLimitOutsideRange()",
+        "selector": "0x14c237fb"
+    },
+    {
+        "name": "IndexOutOfRange",
+        "signature": "IndexOutOfRange()",
+        "selector": "0x1390f2a1"
+    },
+    {
+        "name": "InsufficientFunds",
+        "signature": "InsufficientFunds()",
+        "selector": "0x356680b7"
+    },
+    {
+        "name": "InvalidDataLength",
+        "signature": "InvalidDataLength()",
+        "selector": "0xdfe93090"
+    },
+    {
+        "name": "InvalidPayee",
+        "signature": "InvalidPayee()",
+        "selector": "0xb387a238"
+    },
+    {
+        "name": "InvalidRecipient",
+        "signature": "InvalidRecipient()",
+        "selector": "0x9c8d2cd2"
+    },
+    {
+        "name": "MigrationNotPermitted",
+        "signature": "MigrationNotPermitted()",
+        "selector": "0x0ebeec3c"
+    },
+    {
+        "name": "NotAContract",
+        "signature": "NotAContract()",
+        "selector": "0x09ee12d5"
+    },
+    {
+        "name": "OnlyActiveTransmitters",
+        "signature": "OnlyActiveTransmitters()",
+        "selector": "0x1099ed75"
+    },
+    {
+        "name": "OnlyCallableByAdmin",
+        "signature": "OnlyCallableByAdmin()",
+        "selector": "0xa47c1706"
+    },
+    {
+        "name": "OnlyCallableByLINKToken",
+        "signature": "OnlyCallableByLINKToken()",
+        "selector": "0xc8bad78d"
+    },
+    {
+        "name": "OnlyCallableByOwnerOrAdmin",
+        "signature": "OnlyCallableByOwnerOrAdmin()",
+        "selector": "0xfbdb8e56"
+    },
+    {
+        "name": "OnlyCallableByOwnerOrRegistrar",
+        "signature": "OnlyCallableByOwnerOrRegistrar()",
+        "selector": "0xd48b678b"
+    },
+    {
+        "name": "OnlyCallableByPayee",
+        "signature": "OnlyCallableByPayee()",
+        "selector": "0xcebf515b"
+    },
+    {
+        "name": "OnlyCallableByProposedAdmin",
+        "signature": "OnlyCallableByProposedAdmin()",
+        "selector": "0x6352a853"
+    },
+    {
+        "name": "OnlyCallableByProposedPayee",
+        "signature": "OnlyCallableByProposedPayee()",
+        "selector": "0x6752e7aa"
+    },
+    {
+        "name": "OnlyPausedUpkeep",
+        "signature": "OnlyPausedUpkeep()",
+        "selector": "0x1b88a784"
+    },
+    {
+        "name": "OnlyUnpausedUpkeep",
+        "signature": "OnlyUnpausedUpkeep()",
+        "selector": "0x514b6c24"
+    },
+    {
+        "name": "ParameterLengthError",
+        "signature": "ParameterLengthError()",
+        "selector": "0xcf54c06a"
+    },
+    {
+        "name": "PaymentGreaterThanAllLINK",
+        "signature": "PaymentGreaterThanAllLINK()",
+        "selector": "0x2ad7547a"
+    },
+    {
+        "name": "TranscoderNotSet",
+        "signature": "TranscoderNotSet()",
+        "selector": "0xd12d7d8d"
+    },
+    {
+        "name": "UpkeepCancelled",
+        "signature": "UpkeepCancelled()",
+        "selector": "0x9c0083a2"
+    },
+    {
+        "name": "UpkeepNotCanceled",
+        "signature": "UpkeepNotCanceled()",
+        "selector": "0xff84e5dd"
+    },
+    {
+        "name": "UpkeepNotNeeded",
+        "signature": "UpkeepNotNeeded()",
+        "selector": "0x865676e3"
+    },
+    {
+        "name": "ValueNotChanged",
+        "signature": "ValueNotChanged()",
+        "selector": "0x8c8728c7"
+    },
+    {
+        "name": "ConfigDigestMismatch",
+        "signature": "ConfigDigestMismatch()",
+        "selector": "0xdfdcf8e7"
+    },
+    {
+        "name": "IncorrectNumberOfSignatures",
+        "signature": "IncorrectNumberOfSignatures()",
+        "selector": "0x0244f71a"
+    },
+    {
+        "name": "OnlyActiveSigners",
+        "signature": "OnlyActiveSigners()",
+        "selector": "0x0f4c0737"
+    },
+    {
+        "name": "DuplicateSigners",
+        "signature": "DuplicateSigners()",
+        "selector": "0xc103be2e"
+    },
+    {
+        "name": "TooManyOracles",
+        "signature": "TooManyOracles()",
+        "selector": "0x25d0209c"
+    },
+    {
+        "name": "IncorrectNumberOfSigners",
+        "signature": "IncorrectNumberOfSigners()",
+        "selector": "0x1d2d1c58"
+    },
+    {
+        "name": "IncorrectNumberOfFaultyOracles",
+        "signature": "IncorrectNumberOfFaultyOracles()",
+        "selector": "0xe77dba56"
+    },
+    {
+        "name": "RepeatedSigner",
+        "signature": "RepeatedSigner()",
+        "selector": "0x77cea0fa"
+    },
+    {
+        "name": "RepeatedTransmitter",
+        "signature": "RepeatedTransmitter()",
+        "selector": "0x6a7281ad"
+    },
+    {
+        "name": "OnchainConfigNonEmpty",
+        "signature": "OnchainConfigNonEmpty()",
+        "selector": "0x045b8b6e"
+    },
+    {
+        "name": "CheckDataExceedsLimit",
+        "signature": "CheckDataExceedsLimit()",
+        "selector": "0xae7235df"
+    },
+    {
+        "name": "MaxCheckDataSizeCanOnlyIncrease",
+        "signature": "MaxCheckDataSizeCanOnlyIncrease()",
+        "selector": "0x1fa9bdcb"
+    },
+    {
+        "name": "MaxPerformDataSizeCanOnlyIncrease",
+        "signature": "MaxPerformDataSizeCanOnlyIncrease()",
+        "selector": "0xd1d5faa8"
+    },
+    {
+        "name": "InvalidReport",
+        "signature": "InvalidReport()",
+        "selector": "0xb55ac754"
+    },
+    {
+        "name": "RegistryPaused",
+        "signature": "RegistryPaused()",
+        "selector": "0x24522f34"
+    },
+    {
+        "name": "ReentrantCall",
+        "signature": "ReentrantCall()",
+        "selector": "0x37ed32e8"
+    },
+    {
+        "name": "UpkeepAlreadyExists",
+        "signature": "UpkeepAlreadyExists()",
+        "selector": "0x6e3b930b"
+    },
+    {
+        "name": "UnknownFieldType",
+        "signature": "UnknownFieldType()",
+        "selector": "0x7d8d4329"
+    },
+    {
+        "name": "ListTooLarge",
+        "signature": "ListTooLarge()",
+        "selector": "0x88b27b5f"
+    },
+    {
+        "name": "ArrayHasNoEntries",
+        "signature": "ArrayHasNoEntries()",
+        "selector": "0x2c2fc941"
+    },
+    {
+        "name": "CannotCancel",
+        "signature": "CannotCancel()",
+        "selector": "0xfbc03578"
+    },
+    {
+        "name": "DuplicateEntry",
+        "signature": "DuplicateEntry()",
+        "selector": "0x357d0cc4"
+    },
+    {
+        "name": "EmptyAddress",
+        "signature": "EmptyAddress()",
+        "selector": "0x7138356f"
+    },
+    {
+        "name": "GasLimitCanOnlyIncrease",
+        "signature": "GasLimitCanOnlyIncrease()",
+        "selector": "0x39abc104"
+    },
+    {
+        "name": "GasLimitOutsideRange",
+        "signature": "GasLimitOutsideRange()",
+        "selector": "0x14c237fb"
+    },
+    {
+        "name": "IndexOutOfRange",
+        "signature": "IndexOutOfRange()",
+        "selector": "0x1390f2a1"
+    },
+    {
+        "name": "InsufficientFunds",
+        "signature": "InsufficientFunds()",
+        "selector": "0x356680b7"
+    },
+    {
+        "name": "InvalidDataLength",
+        "signature": "InvalidDataLength()",
+        "selector": "0xdfe93090"
+    },
+    {
+        "name": "InvalidPayee",
+        "signature": "InvalidPayee()",
+        "selector": "0xb387a238"
+    },
+    {
+        "name": "InvalidRecipient",
+        "signature": "InvalidRecipient()",
+        "selector": "0x9c8d2cd2"
+    },
+    {
+        "name": "KeepersMustTakeTurns",
+        "signature": "KeepersMustTakeTurns()",
+        "selector": "0x06bc1040"
+    },
+    {
+        "name": "MigrationNotPermitted",
+        "signature": "MigrationNotPermitted()",
+        "selector": "0x0ebeec3c"
+    },
+    {
+        "name": "NotAContract",
+        "signature": "NotAContract()",
+        "selector": "0x09ee12d5"
+    },
+    {
+        "name": "OnlyActiveKeepers",
+        "signature": "OnlyActiveKeepers()",
+        "selector": "0xcfbacfd8"
+    },
+    {
+        "name": "OnlyCallableByAdmin",
+        "signature": "OnlyCallableByAdmin()",
+        "selector": "0xa47c1706"
+    },
+    {
+        "name": "OnlyCallableByLINKToken",
+        "signature": "OnlyCallableByLINKToken()",
+        "selector": "0xc8bad78d"
+    },
+    {
+        "name": "OnlyCallableByOwnerOrAdmin",
+        "signature": "OnlyCallableByOwnerOrAdmin()",
+        "selector": "0xfbdb8e56"
+    },
+    {
+        "name": "OnlyCallableByOwnerOrRegistrar",
+        "signature": "OnlyCallableByOwnerOrRegistrar()",
+        "selector": "0xd48b678b"
+    },
+    {
+        "name": "OnlyCallableByPayee",
+        "signature": "OnlyCallableByPayee()",
+        "selector": "0xcebf515b"
+    },
+    {
+        "name": "OnlyCallableByProposedAdmin",
+        "signature": "OnlyCallableByProposedAdmin()",
+        "selector": "0x6352a853"
+    },
+    {
+        "name": "OnlyCallableByProposedPayee",
+        "signature": "OnlyCallableByProposedPayee()",
+        "selector": "0x6752e7aa"
+    },
+    {
+        "name": "OnlyPausedUpkeep",
+        "signature": "OnlyPausedUpkeep()",
+        "selector": "0x1b88a784"
+    },
+    {
+        "name": "OnlyUnpausedUpkeep",
+        "signature": "OnlyUnpausedUpkeep()",
+        "selector": "0x514b6c24"
+    },
+    {
+        "name": "ParameterLengthError",
+        "signature": "ParameterLengthError()",
+        "selector": "0xcf54c06a"
+    },
+    {
+        "name": "PaymentGreaterThanAllLINK",
+        "signature": "PaymentGreaterThanAllLINK()",
+        "selector": "0x2ad7547a"
+    },
+    {
+        "name": "TranscoderNotSet",
+        "signature": "TranscoderNotSet()",
+        "selector": "0xd12d7d8d"
+    },
+    {
+        "name": "UpkeepCancelled",
+        "signature": "UpkeepCancelled()",
+        "selector": "0x9c0083a2"
+    },
+    {
+        "name": "UpkeepNotCanceled",
+        "signature": "UpkeepNotCanceled()",
+        "selector": "0xff84e5dd"
+    },
+    {
+        "name": "UpkeepNotNeeded",
+        "signature": "UpkeepNotNeeded()",
+        "selector": "0x865676e3"
+    },
+    {
+        "name": "ValueNotChanged",
+        "signature": "ValueNotChanged()",
+        "selector": "0x8c8728c7"
+    },
+    {
+        "name": "CannotCancel",
+        "signature": "CannotCancel()",
+        "selector": "0xfbc03578"
+    },
+    {
+        "name": "UpkeepNotActive",
+        "signature": "UpkeepNotActive()",
+        "selector": "0xd096219c"
+    },
+    {
+        "name": "MigrationNotPermitted",
+        "signature": "MigrationNotPermitted()",
+        "selector": "0x0ebeec3c"
+    },
+    {
+        "name": "UpkeepNotCanceled",
+        "signature": "UpkeepNotCanceled()",
+        "selector": "0xff84e5dd"
+    },
+    {
+        "name": "UpkeepNotNeeded",
+        "signature": "UpkeepNotNeeded()",
+        "selector": "0x865676e3"
+    },
+    {
+        "name": "NotAContract",
+        "signature": "NotAContract()",
+        "selector": "0x09ee12d5"
+    },
+    {
+        "name": "PaymentGreaterThanAllLINK",
+        "signature": "PaymentGreaterThanAllLINK()",
+        "selector": "0x2ad7547a"
+    },
+    {
+        "name": "OnlyActiveKeepers",
+        "signature": "OnlyActiveKeepers()",
+        "selector": "0xcfbacfd8"
+    },
+    {
+        "name": "InsufficientFunds",
+        "signature": "InsufficientFunds()",
+        "selector": "0x356680b7"
+    },
+    {
+        "name": "KeepersMustTakeTurns",
+        "signature": "KeepersMustTakeTurns()",
+        "selector": "0x06bc1040"
+    },
+    {
+        "name": "ParameterLengthError",
+        "signature": "ParameterLengthError()",
+        "selector": "0xcf54c06a"
+    },
+    {
+        "name": "OnlyCallableByOwnerOrAdmin",
+        "signature": "OnlyCallableByOwnerOrAdmin()",
+        "selector": "0xfbdb8e56"
+    },
+    {
+        "name": "OnlyCallableByLINKToken",
+        "signature": "OnlyCallableByLINKToken()",
+        "selector": "0xc8bad78d"
+    },
+    {
+        "name": "InvalidPayee",
+        "signature": "InvalidPayee()",
+        "selector": "0xb387a238"
+    },
+    {
+        "name": "DuplicateEntry",
+        "signature": "DuplicateEntry()",
+        "selector": "0x357d0cc4"
+    },
+    {
+        "name": "ValueNotChanged",
+        "signature": "ValueNotChanged()",
+        "selector": "0x8c8728c7"
+    },
+    {
+        "name": "IndexOutOfRange",
+        "signature": "IndexOutOfRange()",
+        "selector": "0x1390f2a1"
+    },
+    {
+        "name": "TranscoderNotSet",
+        "signature": "TranscoderNotSet()",
+        "selector": "0xd12d7d8d"
+    },
+    {
+        "name": "ArrayHasNoEntries",
+        "signature": "ArrayHasNoEntries()",
+        "selector": "0x2c2fc941"
+    },
+    {
+        "name": "GasLimitOutsideRange",
+        "signature": "GasLimitOutsideRange()",
+        "selector": "0x14c237fb"
+    },
+    {
+        "name": "OnlyCallableByPayee",
+        "signature": "OnlyCallableByPayee()",
+        "selector": "0xcebf515b"
+    },
+    {
+        "name": "OnlyCallableByProposedPayee",
+        "signature": "OnlyCallableByProposedPayee()",
+        "selector": "0x6752e7aa"
+    },
+    {
+        "name": "GasLimitCanOnlyIncrease",
+        "signature": "GasLimitCanOnlyIncrease()",
+        "selector": "0x39abc104"
+    },
+    {
+        "name": "OnlyCallableByAdmin",
+        "signature": "OnlyCallableByAdmin()",
+        "selector": "0xa47c1706"
+    },
+    {
+        "name": "OnlyCallableByOwnerOrRegistrar",
+        "signature": "OnlyCallableByOwnerOrRegistrar()",
+        "selector": "0xd48b678b"
+    },
+    {
+        "name": "InvalidRecipient",
+        "signature": "InvalidRecipient()",
+        "selector": "0x9c8d2cd2"
+    },
+    {
+        "name": "InvalidDataLength",
+        "signature": "InvalidDataLength()",
+        "selector": "0xdfe93090"
+    },
+    {
+        "name": "InvalidAdminAddress",
+        "signature": "InvalidAdminAddress()",
+        "selector": "0x05bb467c"
+    },
+    {
+        "name": "RequestNotFound",
+        "signature": "RequestNotFound()",
+        "selector": "0x4b13b31e"
+    },
+    {
+        "name": "HashMismatch",
+        "signature": "HashMismatch()",
+        "selector": "0x3f4d6053"
+    },
+    {
+        "name": "OnlyAdminOrOwner",
+        "signature": "OnlyAdminOrOwner()",
+        "selector": "0x61685c2b"
+    },
+    {
+        "name": "InsufficientPayment",
+        "signature": "InsufficientPayment()",
+        "selector": "0xcd1c8867"
+    },
+    {
+        "name": "RegistrationRequestFailed",
+        "signature": "RegistrationRequestFailed()",
+        "selector": "0x649bf810"
+    },
+    {
+        "name": "OnlyLink",
+        "signature": "OnlyLink()",
+        "selector": "0x018d10be"
+    },
+    {
+        "name": "AmountMismatch",
+        "signature": "AmountMismatch()",
+        "selector": "0x55e97b0d"
+    },
+    {
+        "name": "SenderMismatch",
+        "signature": "SenderMismatch()",
+        "selector": "0xf8c5638e"
+    },
+    {
+        "name": "FunctionNotPermitted",
+        "signature": "FunctionNotPermitted()",
+        "selector": "0xe3d67921"
+    },
+    {
+        "name": "InvalidDataLength",
+        "signature": "InvalidDataLength()",
+        "selector": "0xdfe93090"
+    },
+    {
+        "name": "ExceedsMaxJobs",
+        "signature": "ExceedsMaxJobs()",
+        "selector": "0x976395a4"
+    },
+    {
+        "name": "InvalidHandler",
+        "signature": "InvalidHandler()",
+        "selector": "0xd8f59fa5"
+    },
+    {
+        "name": "TickInFuture",
+        "signature": "TickInFuture()",
+        "selector": "0xa0ef6196"
+    },
+    {
+        "name": "TickTooOld",
+        "signature": "TickTooOld()",
+        "selector": "0x753a4acf"
+    },
+    {
+        "name": "TickDoesntMatchSpec",
+        "signature": "TickDoesntMatchSpec()",
+        "selector": "0x1653b6bd"
+    },
+    {
+        "name": "InvalidWatchList",
+        "signature": "InvalidWatchList()",
+        "selector": "0x3869bbe6"
+    },
+    {
+        "name": "OnlyKeeperRegistry",
+        "signature": "OnlyKeeperRegistry()",
+        "selector": "0xd3a68034"
+    },
+    {
+        "name": "InvalidWatchList",
+        "signature": "InvalidWatchList()",
+        "selector": "0x3869bbe6"
+    },
+    {
+        "name": "OnlyKeeperRegistry",
+        "signature": "OnlyKeeperRegistry()",
+        "selector": "0xd3a68034"
+    },
+    {
+        "name": "AlreadyClaimed",
+        "signature": "AlreadyClaimed()",
+        "selector": "0x646cf558"
+    },
+    {
+        "name": "Fail",
+        "signature": "Fail()",
+        "selector": "0x552670ff"
+    },
+    {
+        "name": "CustomError",
+        "signature": "CustomError()",
+        "selector": "0x09caebf3"
+    },
+    {
+        "name": "Unauthorized",
+        "signature": "Unauthorized()",
+        "selector": "0x82b42900"
+    },
+    {
+        "name": "NewOwnerIsZeroAddress",
+        "signature": "NewOwnerIsZeroAddress()",
+        "selector": "0x7448fbae"
+    },
+    {
+        "name": "NoHandoverRequest",
+        "signature": "NoHandoverRequest()",
+        "selector": "0x6f5e8818"
+    },
+    {
+        "name": "ValueIsEmpty",
+        "signature": "ValueIsEmpty()",
+        "selector": "0xc94f1877"
+    },
+    {
+        "name": "ValueAlreadyExists",
+        "signature": "ValueAlreadyExists()",
+        "selector": "0xbb33e6ac"
+    },
+    {
+        "name": "ValueDoesNotExist",
+        "signature": "ValueDoesNotExist()",
+        "selector": "0xb113638a"
+    },
+    {
+        "name": "PointerOutOfBounds",
+        "signature": "PointerOutOfBounds()",
+        "selector": "0xccd52fbc"
+    },
+    {
+        "name": "TreeIsFull",
+        "signature": "TreeIsFull()",
+        "selector": "0xed732d0c"
+    },
+    {
+        "name": "DeploymentFailed",
+        "signature": "DeploymentFailed()",
+        "selector": "0x30116425"
+    },
+    {
+        "name": "SaltDoesNotStartWithCaller",
+        "signature": "SaltDoesNotStartWithCaller()",
+        "selector": "0x2f634836"
+    },
+    {
+        "name": "HexLengthInsufficient",
+        "signature": "HexLengthInsufficient()",
+        "selector": "0x2194895a"
+    },
+    {
+        "name": "HeapIsEmpty",
+        "signature": "HeapIsEmpty()",
+        "selector": "0xa6ca772e"
+    },
+    {
+        "name": "InvalidSignature",
+        "signature": "InvalidSignature()",
+        "selector": "0x8baa579f"
+    },
+    {
+        "name": "Unauthorized",
+        "signature": "Unauthorized()",
+        "selector": "0x82b42900"
+    },
+    {
+        "name": "DeploymentFailed",
+        "signature": "DeploymentFailed()",
+        "selector": "0x30116425"
+    },
+    {
+        "name": "UpgradeFailed",
+        "signature": "UpgradeFailed()",
+        "selector": "0x55299b49"
+    },
+    {
+        "name": "SaltDoesNotStartWithCaller",
+        "signature": "SaltDoesNotStartWithCaller()",
+        "selector": "0x2f634836"
+    },
+    {
+        "name": "ExpOverflow",
+        "signature": "ExpOverflow()",
+        "selector": "0xa37bfec9"
+    },
+    {
+        "name": "FactorialOverflow",
+        "signature": "FactorialOverflow()",
+        "selector": "0xaba0f2a2"
+    },
+    {
+        "name": "RPowOverflow",
+        "signature": "RPowOverflow()",
+        "selector": "0x49f7642b"
+    },
+    {
+        "name": "MulWadFailed",
+        "signature": "MulWadFailed()",
+        "selector": "0xbac65e5b"
+    },
+    {
+        "name": "DivWadFailed",
+        "signature": "DivWadFailed()",
+        "selector": "0x7c5f487d"
+    },
+    {
+        "name": "MulDivFailed",
+        "signature": "MulDivFailed()",
+        "selector": "0xad251c27"
+    },
+    {
+        "name": "DivFailed",
+        "signature": "DivFailed()",
+        "selector": "0x65244e4e"
+    },
+    {
+        "name": "FullMulDivFailed",
+        "signature": "FullMulDivFailed()",
+        "selector": "0xae47f702"
+    },
+    {
+        "name": "LnWadUndefined",
+        "signature": "LnWadUndefined()",
+        "selector": "0x1615e638"
+    },
+    {
+        "name": "Log2Undefined",
+        "signature": "Log2Undefined()",
+        "selector": "0x5be3aa5c"
+    },
+    {
+        "name": "DeploymentFailed",
+        "signature": "DeploymentFailed()",
+        "selector": "0x30116425"
+    },
+    {
+        "name": "InvalidPointer",
+        "signature": "InvalidPointer()",
+        "selector": "0x11052bb4"
+    },
+    {
+        "name": "ReadOutOfBounds",
+        "signature": "ReadOutOfBounds()",
+        "selector": "0x84eb0dd1"
+    },
+    {
+        "name": "DeploymentFailed",
+        "signature": "DeploymentFailed()",
+        "selector": "0x30116425"
+    },
+    {
+        "name": "InitializationFailed",
+        "signature": "InitializationFailed()",
+        "selector": "0x19b991a8"
+    },
+    {
+        "name": "Overflow",
+        "signature": "Overflow()",
+        "selector": "0x35278d12"
+    },
+    {
+        "name": "ETHTransferFailed",
+        "signature": "ETHTransferFailed()",
+        "selector": "0xb12d13eb"
+    },
+    {
+        "name": "TransferFromFailed",
+        "signature": "TransferFromFailed()",
+        "selector": "0x7939f424"
+    },
+    {
+        "name": "TransferFailed",
+        "signature": "TransferFailed()",
+        "selector": "0x90b8ec18"
+    },
+    {
+        "name": "ApproveFailed",
+        "signature": "ApproveFailed()",
+        "selector": "0x3e3f8f73"
+    },
+    {
+        "name": "ArrayLengthsMismatch",
+        "signature": "ArrayLengthsMismatch()",
+        "selector": "0x3b800a46"
+    },
+    {
+        "name": "TransferToZeroAddress",
+        "signature": "TransferToZeroAddress()",
+        "selector": "0xea553b34"
+    },
+    {
+        "name": "AccountBalanceOverflow",
+        "signature": "AccountBalanceOverflow()",
+        "selector": "0x01336cea"
+    },
+    {
+        "name": "InsufficientBalance",
+        "signature": "InsufficientBalance()",
+        "selector": "0xf4d678b8"
+    },
+    {
+        "name": "NotOwnerNorApproved",
+        "signature": "NotOwnerNorApproved()",
+        "selector": "0x4b6e7f18"
+    },
+    {
+        "name": "TransferToNonERC1155ReceiverImplementer",
+        "signature": "TransferToNonERC1155ReceiverImplementer()",
+        "selector": "0x9c05499b"
+    },
+    {
+        "name": "TotalSupplyOverflow",
+        "signature": "TotalSupplyOverflow()",
+        "selector": "0xe5cfe957"
+    },
+    {
+        "name": "AllowanceOverflow",
+        "signature": "AllowanceOverflow()",
+        "selector": "0xf9067066"
+    },
+    {
+        "name": "AllowanceUnderflow",
+        "signature": "AllowanceUnderflow()",
+        "selector": "0x8301ab38"
+    },
+    {
+        "name": "InsufficientBalance",
+        "signature": "InsufficientBalance()",
+        "selector": "0xf4d678b8"
+    },
+    {
+        "name": "InsufficientAllowance",
+        "signature": "InsufficientAllowance()",
+        "selector": "0x13be252b"
+    },
+    {
+        "name": "InvalidPermit",
+        "signature": "InvalidPermit()",
+        "selector": "0xddafbaef"
+    },
+    {
+        "name": "PermitExpired",
+        "signature": "PermitExpired()",
+        "selector": "0x1a15a3cc"
+    },
+    {
+        "name": "NotOwnerNorApproved",
+        "signature": "NotOwnerNorApproved()",
+        "selector": "0x4b6e7f18"
+    },
+    {
+        "name": "TokenDoesNotExist",
+        "signature": "TokenDoesNotExist()",
+        "selector": "0xceea21b6"
+    },
+    {
+        "name": "TokenAlreadyExists",
+        "signature": "TokenAlreadyExists()",
+        "selector": "0xc991cbb1"
+    },
+    {
+        "name": "BalanceQueryForZeroAddress",
+        "signature": "BalanceQueryForZeroAddress()",
+        "selector": "0x8f4eb604"
+    },
+    {
+        "name": "TransferToZeroAddress",
+        "signature": "TransferToZeroAddress()",
+        "selector": "0xea553b34"
+    },
+    {
+        "name": "TransferFromIncorrectOwner",
+        "signature": "TransferFromIncorrectOwner()",
+        "selector": "0xa1148100"
+    },
+    {
+        "name": "AccountBalanceOverflow",
+        "signature": "AccountBalanceOverflow()",
+        "selector": "0x01336cea"
+    },
+    {
+        "name": "TransferToNonERC721ReceiverImplementer",
+        "signature": "TransferToNonERC721ReceiverImplementer()",
+        "selector": "0xd1a57ed6"
+    },
+    {
+        "name": "RoyaltyOverflow",
+        "signature": "RoyaltyOverflow()",
+        "selector": "0x350a88b3"
+    },
+    {
+        "name": "RoyaltyReceiverIsZeroAddress",
+        "signature": "RoyaltyReceiverIsZeroAddress()",
+        "selector": "0xb4457eaa"
+    },
+    {
+        "name": "ETHTransferFailed",
+        "signature": "ETHTransferFailed()",
+        "selector": "0xb12d13eb"
+    },
+    {
+        "name": "DepositMoreThanMax",
+        "signature": "DepositMoreThanMax()",
+        "selector": "0xb3c61a83"
+    },
+    {
+        "name": "MintMoreThanMax",
+        "signature": "MintMoreThanMax()",
+        "selector": "0x6a695959"
+    },
+    {
+        "name": "WithdrawMoreThanMax",
+        "signature": "WithdrawMoreThanMax()",
+        "selector": "0x936941fc"
+    },
+    {
+        "name": "RedeemMoreThanMax",
+        "signature": "RedeemMoreThanMax()",
+        "selector": "0x4656425a"
+    },
+    {
+        "name": "NotCrossChainCall",
+        "signature": "NotCrossChainCall()",
+        "selector": "0x4a74df92"
+    },
+    {
+        "name": "NotCrossChainCall",
+        "signature": "NotCrossChainCall()",
+        "selector": "0x4a74df92"
+    },
+    {
+        "name": "InvalidShortString",
+        "signature": "InvalidShortString()",
+        "selector": "0xb3512b0c"
+    },
+    {
+        "name": "Empty",
+        "signature": "Empty()",
+        "selector": "0x3db2a12a"
+    },
+    {
+        "name": "OutOfBounds",
+        "signature": "OutOfBounds()",
+        "selector": "0xb4120f14"
+    },
+    {
+        "name": "NotContract",
+        "signature": "NotContract()",
+        "selector": "0x6f7c43f1"
+    },
+    {
+        "name": "AccountRestricted",
+        "signature": "AccountRestricted()",
+        "selector": "0x1d8c2735"
+    },
+    {
+        "name": "TokenNotFound",
+        "signature": "TokenNotFound()",
+        "selector": "0xcbdb7b30"
+    },
+    {
+        "name": "InvalidMultiple",
+        "signature": "InvalidMultiple()",
+        "selector": "0xb29d78b7"
+    },
+    {
+        "name": "SplitNotFound",
+        "signature": "SplitNotFound()",
+        "selector": "0x80df5539"
+    },
+    {
+        "name": "AlreadySplit",
+        "signature": "AlreadySplit()",
+        "selector": "0x3a47dff8"
+    },
+    {
+        "name": "InvalidTokenManager",
+        "signature": "InvalidTokenManager()",
+        "selector": "0x79c5faa8"
+    },
+    {
+        "name": "IssuancePaused",
+        "signature": "IssuancePaused()",
+        "selector": "0xdf34d30c"
+    },
+    {
+        "name": "SplitConversionNeeded",
+        "signature": "SplitConversionNeeded()",
+        "selector": "0x7cc74784"
+    },
+    {
+        "name": "ConversionCurrent",
+        "signature": "ConversionCurrent()",
+        "selector": "0xa13ad423"
+    },
+    {
+        "name": "Unauthorized",
+        "signature": "Unauthorized()",
+        "selector": "0x82b42900"
+    },
+    {
+        "name": "TokenSplit",
+        "signature": "TokenSplit()",
+        "selector": "0xcfaab59a"
+    },
+    {
+        "name": "UserNotRelayer",
+        "signature": "UserNotRelayer()",
+        "selector": "0x01f95d9a"
+    },
+    {
+        "name": "InvalidSigner",
+        "signature": "InvalidSigner()",
+        "selector": "0x815e1d64"
+    },
+    {
+        "name": "InvalidAmount",
+        "signature": "InvalidAmount()",
+        "selector": "0x2c5211c6"
+    },
+    {
+        "name": "ExpiredRequest",
+        "signature": "ExpiredRequest()",
+        "selector": "0xdd9cfdb6"
+    },
+    {
+        "name": "UnsupportedCall",
+        "signature": "UnsupportedCall()",
+        "selector": "0xddcfed35"
+    },
+    {
+        "name": "FeeTooHigh",
+        "signature": "FeeTooHigh()",
+        "selector": "0xcd4e6167"
+    },
+    {
+        "name": "ForwarderNotApprovedByProcessor",
+        "signature": "ForwarderNotApprovedByProcessor()",
+        "selector": "0xe8c7802e"
+    },
+    {
+        "name": "NotSupportedModule",
+        "signature": "NotSupportedModule()",
+        "selector": "0xeab409f4"
+    },
+    {
+        "name": "FeeTooLarge",
+        "signature": "FeeTooLarge()",
+        "selector": "0xfc5bee12"
+    },
+    {
+        "name": "DecimalsTooLarge",
+        "signature": "DecimalsTooLarge()",
+        "selector": "0x3c9c1e2d"
+    },
+    {
+        "name": "EndTimeInPast",
+        "signature": "EndTimeInPast()",
+        "selector": "0x72e54d4d"
+    },
+    {
+        "name": "DistributionRunning",
+        "signature": "DistributionRunning()",
+        "selector": "0x885ed363"
+    },
+    {
+        "name": "DistributionEnded",
+        "signature": "DistributionEnded()",
+        "selector": "0x9856227d"
+    },
+    {
+        "name": "NotReclaimable",
+        "signature": "NotReclaimable()",
+        "selector": "0x22093479"
+    },
+    {
+        "name": "ZeroAddress",
+        "signature": "ZeroAddress()",
+        "selector": "0xd92e233d"
+    },
+    {
+        "name": "XdshareIsNotLocked",
+        "signature": "XdshareIsNotLocked()",
+        "selector": "0x958fbd25"
+    },
+    {
+        "name": "LimitPriceNotSet",
+        "signature": "LimitPriceNotSet()",
+        "selector": "0x35fbb1cc"
+    },
+    {
+        "name": "OrderFillAboveLimitPrice",
+        "signature": "OrderFillAboveLimitPrice()",
+        "selector": "0x7d18445b"
+    },
+    {
+        "name": "UnreturnedEscrow",
+        "signature": "UnreturnedEscrow()",
+        "selector": "0x323ccc8e"
+    },
+    {
+        "name": "LimitPriceNotSet",
+        "signature": "LimitPriceNotSet()",
+        "selector": "0x35fbb1cc"
+    },
+    {
+        "name": "OrderFillBelowLimitPrice",
+        "signature": "OrderFillBelowLimitPrice()",
+        "selector": "0x650e5450"
+    },
+    {
+        "name": "ZeroAddress",
+        "signature": "ZeroAddress()",
+        "selector": "0xd92e233d"
+    },
+    {
+        "name": "Paused",
+        "signature": "Paused()",
+        "selector": "0x9e87fac8"
+    },
+    {
+        "name": "ZeroValue",
+        "signature": "ZeroValue()",
+        "selector": "0x7c946ed7"
+    },
+    {
+        "name": "NotRequester",
+        "signature": "NotRequester()",
+        "selector": "0xe39da59e"
+    },
+    {
+        "name": "OrderNotFound",
+        "signature": "OrderNotFound()",
+        "selector": "0xd36d8965"
+    },
+    {
+        "name": "InvalidOrderData",
+        "signature": "InvalidOrderData()",
+        "selector": "0xa342e7d9"
+    },
+    {
+        "name": "AmountTooLarge",
+        "signature": "AmountTooLarge()",
+        "selector": "0x06250401"
+    },
+    {
+        "name": "OrderTypeMismatch",
+        "signature": "OrderTypeMismatch()",
+        "selector": "0x899d9d75"
+    },
+    {
+        "name": "Blacklist",
+        "signature": "Blacklist()",
+        "selector": "0xc95b4825"
+    },
+    {
+        "name": "OrderCancellationInitiated",
+        "signature": "OrderCancellationInitiated()",
+        "selector": "0xa9d0268d"
+    },
+    {
+        "name": "InvalidPrecision",
+        "signature": "InvalidPrecision()",
+        "selector": "0xaa8828e7"
+    }
+]
